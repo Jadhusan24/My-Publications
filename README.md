@@ -20,7 +20,7 @@ My Publications
 
 - [what-path-should-i-take-in-information-technology-field](https://jadhusan-s.medium.com/what-path-should-i-take-in-information-technology-field-7048ca6f1183?source=user_profile---------1----------------------------)
 
-
+- [Full Roadmap to become Ethical Hacker](https://jadhusan-s.medium.com/what-should-i-study-to-become-ethical-hacker-4e08cd0c2ed0)
 
 
 - []()
