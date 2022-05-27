@@ -26,8 +26,7 @@ My Publications
 
 - [What should I study to become Ethical Hacker](https://jadhusan-s.medium.com/what-should-i-study-to-become-ethical-hacker-4e08cd0c2ed0)
 
-- []()
-
+- [10 Cyber Security Projects For Students]()
 
 
 
