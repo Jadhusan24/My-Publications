@@ -1,6 +1,6 @@
 # Articles
 My Publications
-
+Do Follow And Share https://jadhusan-s.medium.com/
 
 ### Microsoft
 
@@ -26,9 +26,9 @@ My Publications
 
 - [What should I study to become Ethical Hacker](https://jadhusan-s.medium.com/what-should-i-study-to-become-ethical-hacker-4e08cd0c2ed0)
 
-- [10 Cyber Security Projects For Students] (https://jadhusan-s.medium.com/10-cyber-security-projects-for-students-daa047ec072f)
+- [10 Cyber Security Projects For Students](https://jadhusan-s.medium.com/10-cyber-security-projects-for-students-daa047ec072f)
 
-- [Networking + Programming Projects For Students] (https://jadhusan-s.medium.com/networking-programming-projects-for-students-3ab41f5577c6)
+- [Networking + Programming Projects For Students](https://jadhusan-s.medium.com/networking-programming-projects-for-students-3ab41f5577c6)
 
 
 
