@@ -12,6 +12,9 @@ Do Follow And Share https://jadhusan-s.medium.com/
 
 - [Microsoft Certified Trainer Resources & Benefits](https://jadhusan-s.medium.com/microsoft-certified-trainer-resources-benefits-323752b13acb)
 
+- [Microsoft Ignite 2022](https://jadhusan-s.medium.com/microsoft-ignite-2022-6266b41dd074)
+
+
 ### GitHub
 
 - [How To Apply For GitHub Student Pack](https://jadhusan-s.medium.com/how-to-apply-for-github-student-pack-4a2cdd983b85)
